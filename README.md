@@ -43,7 +43,7 @@ REG NO: 212223230061
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
-img =cv2.imread('Eagle_in_Flight.jpg',cv2.IMREAD_COLOR)
+img =cv2.imread('C:\\Users\\admin\\Downloads\\maltese-portrait.jpg',cv2.IMREAD_COLOR)
 img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 ```
 
@@ -61,13 +61,13 @@ plt.show()
 
 #### 4. Save the image as a PNG file using OpenCV imwrite().
 ```
-img=cv2.imread('Eagle_in_Flight.jpg')
+img=cv2.imread('C:\\Users\\admin\\Downloads\\maltese-portrait.jpg')
 cv2.imwrite('Eagle.png',img)
 ```
 
 #### 5. Read the saved image above as a color image using cv2.cvtColor().
 ```
-img=cv2.imread('Eagle_in_Flight.jpg')
+img=cv2.imread('C:\\Users\\admin\\Downloads\\maltese-portrait.jpg')
 cv2.imwrite('Eagle.png',img)
 ```
 
@@ -78,7 +78,7 @@ plt.show()
 img.shape
 ```
 
-#### 7. Crop the image to extract any specific (Eagle alone) object from the image.
+#### 7. Crop the image to extract any specific  object from the image.
 ```
 crop = img_rgb[0:450,200:550] 
 plt.imshow(crop[:,:,::-1])
@@ -101,16 +101,16 @@ plt.title("Flipped Horizontally")
 plt.axis("off")
 ```
 
-#### 10. Read in the image ('Apollo-11-launch.jpg').
+#### 10. Read in the image 
 ```
-img=cv2.imread('Apollo-11-launch.jpg',cv2.IMREAD_COLOR)
+img=cv2.imread('C:\\Users\\admin\\Downloads\\maltese-portrait.jpg',cv2.IMREAD_COLOR)
 img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 img_rgb.shape
 ```
 
 #### 11. Add the following text to the dark area at the bottom of the image (centered on the image):
 ```
-text = cv2.putText(img_rgb, "Apollo 11 Saturn V Launch, July 16, 1969", (300, 700),cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 255), 2)  
+text = cv2.putText(img_rgb, (300, 700),cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 255), 2)  
 plt.imshow(text, cmap='gray')  
 plt.title("New image")
 plt.show()  
@@ -130,7 +130,7 @@ plt.imshow(img_rgb)
 plt.show()
 ```
 
-#### 14. Read the image ('Boy.jpg').
+#### 14. Read the image (
 ```
 img =cv2.imread('boy.jpg',cv2.IMREAD_COLOR)
 img_rgb= cv2.cvtColor(img, cv2.COLOR_BGR2RGB) 
