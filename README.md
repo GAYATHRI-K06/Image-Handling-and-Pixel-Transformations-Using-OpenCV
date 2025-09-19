@@ -216,27 +216,32 @@ plt.show()
 
 ## Output:
 
-i) Read and Display an Image. 
+i) Read and Display an Image. & 2.Save image as PNG and display:
 
 
 <img width="527" height="653" alt="image" src="https://github.com/user-attachments/assets/b3eb9e2f-0795-4853-8203-bcf59be3f1ea" />
 
+
  
- 2.Save image as PNG and display:
+ 3.Cropped image
+
 
 
 <img width="376" height="402" alt="image" src="https://github.com/user-attachments/assets/ef6895fc-165c-4755-8b88-7122eb06a5dc" />
 
 
 
- 3.Cropped image
+
+4.Resize and flip Horizontally:
+
+
 
 
 <img width="272" height="174" alt="image" src="https://github.com/user-attachments/assets/6ec896d9-9911-4add-bd5e-ffb73ac960bf" />
 
 
 
-4.Resize and flip Horizontally:
+
 
 
 
