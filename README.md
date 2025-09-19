@@ -237,6 +237,15 @@ i) Read and Display an Image. & 2.Save image as PNG and display:
 
 
 
+
+<img width="507" height="788" alt="image" src="https://github.com/user-attachments/assets/6a955a97-18b2-4c06-a8d0-da9e2d3fb1c3" />
+
+
+
+
+
+
+
 <img width="272" height="174" alt="image" src="https://github.com/user-attachments/assets/6ec896d9-9911-4add-bd5e-ffb73ac960bf" />
 
 
@@ -245,7 +254,7 @@ i) Read and Display an Image. & 2.Save image as PNG and display:
 
 
 
-<img width="507" height="788" alt="image" src="https://github.com/user-attachments/assets/6a955a97-18b2-4c06-a8d0-da9e2d3fb1c3" />
+
 
 
 
