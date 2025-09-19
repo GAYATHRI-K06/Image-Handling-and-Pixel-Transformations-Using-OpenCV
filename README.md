@@ -1,6 +1,6 @@
 ## Ex. No. 01 - Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-
-
+## NAME:GAYATHRI K
+## REG NO :212223230061
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
