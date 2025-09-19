@@ -215,24 +215,45 @@ plt.show()
 ```
 
 ## Output:
-## i) Read and Display an Image. 1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
+
+i) Read and Display an Image. 
+
 
 <img width="527" height="653" alt="image" src="https://github.com/user-attachments/assets/b3eb9e2f-0795-4853-8203-bcf59be3f1ea" />
-## 2.Save image as PNG and display:
+
+ 
+ 2.Save image as PNG and display:
 
 
 <img width="376" height="402" alt="image" src="https://github.com/user-attachments/assets/ef6895fc-165c-4755-8b88-7122eb06a5dc" />
-## 3.Cropped image
+
+
+
+ 3.Cropped image
 
 
 <img width="272" height="174" alt="image" src="https://github.com/user-attachments/assets/6ec896d9-9911-4add-bd5e-ffb73ac960bf" />
-## 4.Resize and flip Horizontally:
+
+
+
+4.Resize and flip Horizontally:
+
 
 
 <img width="507" height="788" alt="image" src="https://github.com/user-attachments/assets/6a955a97-18b2-4c06-a8d0-da9e2d3fb1c3" />
-## ii)* Adjust Image Brightness.
+
+
+
+ ii)* Adjust Image Brightness.
+
+
+ 
 <img width="793" height="572" alt="image" src="https://github.com/user-attachments/assets/95f04108-1ff5-4ea2-bf8f-270fed09a95f" />
+
+
 <img width="429" height="277" alt="image" src="https://github.com/user-attachments/assets/6f3ff382-a41a-4d71-a227-47223010c22e" />
+
+
 <img width="914" height="211" alt="image" src="https://github.com/user-attachments/assets/bee2042f-1d7d-4f68-a5f4-8e7d486d773a" />
 
 
